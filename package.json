@@ -1,5 +1,5 @@
 {
-  "name": "foobar",
+  "name": "automatic-dollop",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "react": "18.0.0",
     "moment": "^2.29.4",
-    "react": "18.2.0",
-    "sso-map": "1.999.0"
+    "@rappiinc/partner-core": "99.0.1"
   }
 }
